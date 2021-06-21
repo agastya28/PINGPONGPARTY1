@@ -1,0 +1,35 @@
+
+
+#header {
+    background-color: #71d2d2;
+    width: 100%;
+    text-align: center;
+    line-height: 10px
+}
+
+#headdddd {
+    font-size: 23px;
+    color: white;
+    background-color: #71d2d2;
+}
+
+#pingo {
+    width: 120px;
+    height: 80px
+}
+
+#instruc {
+    width: 100%;
+    background-color: #12b9e3;
+    height: 50px;
+    
+    
+}
+
+#instrcuths {
+    border: 3px solid white;
+    border-radius: 3px;
+    background-color: #12b9e3;
+    color: whitesmoke;
+    margin: 10px;
+}
